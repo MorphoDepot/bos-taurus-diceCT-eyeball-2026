@@ -1,0 +1,17 @@
+{
+  "contributions": [],
+  "people": [
+    {
+      "affiliation": null,
+      "author": true,
+      "curator": true,
+      "github": "PaulGignac",
+      "github_id": null,
+      "name": null,
+      "orcid": null,
+      "source": "member"
+    }
+  ],
+  "repo": "MorphoDepot/bos-taurus-diceCT-eyeball-2026",
+  "schema": "morphodepot-contributors/1"
+}
