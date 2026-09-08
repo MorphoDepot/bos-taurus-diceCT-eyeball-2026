@@ -2,13 +2,13 @@
   "contributions": [],
   "people": [
     {
-      "affiliation": null,
+      "affiliation": "University of Arizona",
       "author": true,
       "curator": true,
       "github": "PaulGignac",
-      "github_id": null,
-      "name": null,
-      "orcid": null,
+      "github_id": 88169211,
+      "name": "Gignac, Paul",
+      "orcid": "0000-0001-9181-3258",
       "source": "member"
     }
   ],
